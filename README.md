@@ -16,6 +16,10 @@
             <p>I am open to New York City-based roles in Frontend Development, Software Engineering, UI/UX, and more. I love commuting to the office, but I also have experience working with hybrid or remote teams. If you think you have an interesting opportunity, let's connect!</p>
             <a href="https://www.hackerrank.com/profile/dh51481n" style="color: #1610ff">HackerRank</a> •
             <a href="https://dantehurr.com" style="color: #1610ff">Portfolio</a>
+            <h3>Featured Work</h3>
+            <a href='https://github.com/dantehurr/microprojects'>Microprojects</a> •
+            <a href='https://github.com/dantehurr/SetterSocial'>SetterSocial</a> •
+            <a href='https://github.com/dantehurr/GametimeStats'>GametimeStats</a>
         </div>
         <div>
             <h2>Contact Me</h2>
