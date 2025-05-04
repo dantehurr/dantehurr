@@ -19,7 +19,7 @@
             <h3>Featured Work</h3>
             <a href='https://github.com/dantehurr/microprojects'>Microprojects</a> •
             <a href='https://github.com/dantehurr/SetterSocial'>SetterSocial</a> •
-            <a href='https://github.com/dantehurr/GametimeStats'>GametimeStats</a>
+            <a href='https://github.com/dantehurr/GametimeStats'>Gametime Stats</a>
         </div>
         <div>
             <h2>Contact Me</h2>
